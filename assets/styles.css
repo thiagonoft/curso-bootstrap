@@ -1,0 +1,44 @@
+* {
+    font-family: "Helvetica", sans-serif;
+}
+
+#logo {
+    font-size: 1.5rem;
+}
+
+body {
+    background-image: url(clark2.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    height: 100rem;
+    padding-top: 16rem;
+ }
+
+ #firstjumb {
+    margin: 0rem 10rem;
+    background-color: hsla(0, 0%, 0%, 0.719) !important;
+ }
+
+ h1 {
+    font-size: 5rem !important;
+ }
+
+ h1, h5, p {
+    text-shadow: 0 0 0.8rem !important;
+    text-align: justify;
+    letter-spacing: 0.15rem;
+ }
+
+ #firstimage {
+    height: 30rem !important;
+ }
+
+ 
+ #firstimage {
+       max-width: 30rem;
+       
+}
+    
+ 
