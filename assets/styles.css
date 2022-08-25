@@ -17,9 +17,12 @@ body {
  }
 
  #firstjumb {
-    margin: 0rem 2rem;
     background-color: hsla(0, 0%, 0%, 0.719) !important;
  }
+
+ #firstcard {
+   background-color: hsla(0, 0%, 0%, 0.719) !important;
+}
 
  h1 {
     font-size: 5rem !important;
@@ -32,7 +35,9 @@ body {
  }
 
  #firstimage {
-    height: 30rem !important;
+    height: 20rem !important;
+    margin-top: 10rem;
+    margin-left: 2rem;
  }
 
  
