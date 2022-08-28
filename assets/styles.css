@@ -22,13 +22,14 @@ body {
 
  #firstcard {
    background-color: hsla(0, 0%, 0%, 0.719) !important;
+   margin-bottom: 15rem !important;
 }
 
  h1 {
     font-size: 5rem !important;
  }
 
- h1, h5, p {
+ h1, h2, h5, p {
     text-shadow: 0 0 0.8rem !important;
     text-align: justify;
     letter-spacing: 0.15rem;
@@ -38,12 +39,17 @@ body {
     height: 20rem !important;
     margin-top: 10rem;
     margin-left: 2rem;
+    max-width: 30rem;
  }
 
  
- #firstimage {
-       max-width: 30rem;
-       
+
+#secondp {
+   text-shadow: 0 0 0rem !important;
+   letter-spacing: 0.1rem !important;
 }
     
+#secontainer {
+   background-image: linear-gradient(#1f1f1f,#0d014b) !important;
+}
  
